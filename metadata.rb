@@ -14,4 +14,4 @@ supports 'redhat'
 supports 'scientific'
 supports 'amazon'
 
-depends 'postgresql', '>= 1.0.0'
+depends 'postgresql'
